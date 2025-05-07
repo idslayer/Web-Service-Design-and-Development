@@ -1,0 +1,6 @@
+fastapi
+mysqlclient
+uvicorn
+pyjwt
+passlib[bcrypt]
+bcrypt==3.2.0
